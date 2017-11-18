@@ -23,3 +23,8 @@ set softtabstop=4
 
 " Set autoindent 
 set autoindent
+
+" Highlight search matches
+set hlsearch
+" Search as characters are entered
+set incsearch
